@@ -10,8 +10,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github Repository]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Github Repository](https://github.com/guilhermedevl/fm-recipe-chal)
+- Live Site URL: [Netlify](https://guilhermedev-fm-receip.netlify.app/)
 
 ## My process
 
